@@ -1,0 +1,90 @@
+[
+    {
+        "Max Drawdown": 728.8188453902345,
+        "Final PnL": 249.30696415933312,
+        "Final Sharpe Ratio": 0.017287348463940477,
+        "Num Layers": 1,
+        "Hidden Size": 8,
+        "Optimal Epoch": 2600
+    },
+    {
+        "Max Drawdown": 922.6090138599651,
+        "Final PnL": 593.9147663328333,
+        "Final Sharpe Ratio": 0.01875617056911863,
+        "Num Layers": 1,
+        "Hidden Size": 16,
+        "Optimal Epoch": 1400
+    },
+    {
+        "Max Drawdown": 862.8729619319502,
+        "Final PnL": 2987.3430788307196,
+        "Final Sharpe Ratio": 0.06668936369588276,
+        "Num Layers": 1,
+        "Hidden Size": 32,
+        "Optimal Epoch": 1400
+    },
+    {
+        "Max Drawdown": 759.6174439513388,
+        "Final PnL": 5757.5644892570235,
+        "Final Sharpe Ratio": 0.10034896245550709,
+        "Num Layers": 1,
+        "Hidden Size": 64,
+        "Optimal Epoch": 600
+    },
+    {
+        "Max Drawdown": 694.9022874013808,
+        "Final PnL": 4802.402197257858,
+        "Final Sharpe Ratio": 0.10784289118649541,
+        "Num Layers": 2,
+        "Hidden Size": 8,
+        "Optimal Epoch": 800
+    },
+    {
+        "Max Drawdown": 1127.5581868158774,
+        "Final PnL": 2943.1172823915354,
+        "Final Sharpe Ratio": 0.06256642874209813,
+        "Num Layers": 2,
+        "Hidden Size": 16,
+        "Optimal Epoch": 1000
+    },
+    {
+        "Max Drawdown": 948.013307602123,
+        "Final PnL": 4876.206359435377,
+        "Final Sharpe Ratio": 0.08718994485500348,
+        "Num Layers": 2,
+        "Hidden Size": 64,
+        "Optimal Epoch": 600
+    },
+    {
+        "Max Drawdown": 643.0176767917252,
+        "Final PnL": 2200.4608971121966,
+        "Final Sharpe Ratio": 0.07719408651721844,
+        "Num Layers": 3,
+        "Hidden Size": 8,
+        "Optimal Epoch": 1400
+    },
+    {
+        "Max Drawdown": 997.1651130330665,
+        "Final PnL": 4053.559011013376,
+        "Final Sharpe Ratio": 0.07617780146873224,
+        "Num Layers": 3,
+        "Hidden Size": 16,
+        "Optimal Epoch": 900
+    },
+    {
+        "Max Drawdown": 2142.407354738329,
+        "Final PnL": 2316.6812995934993,
+        "Final Sharpe Ratio": 0.04989378895140935,
+        "Num Layers": 3,
+        "Hidden Size": 32,
+        "Optimal Epoch": 1200
+    },
+    {
+        "Max Drawdown": 1555.821656586137,
+        "Final PnL": -753.4677326884428,
+        "Final Sharpe Ratio": -0.03401089621622395,
+        "Num Layers": 3,
+        "Hidden Size": 64,
+        "Optimal Epoch": 1400
+    }
+]
