@@ -12,7 +12,6 @@ from torch.utils.data import Dataset
 import yfinance as yf
 import datetime
 
-
 class ExcessReturnDataset(Dataset):
     def __init__(self, seq_len=50, mode='train'):
         self.seq_len = seq_len
